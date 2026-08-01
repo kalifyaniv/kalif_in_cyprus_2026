@@ -22,7 +22,6 @@
 - Pick-up: Larnaca Airport, Wed 12 Aug, 17:00
 - Drop-off: Larnaca Airport, Wed 26 Aug, 13:30
 - Main driver: Yaniv Gidon Kalif
-- ⚠️ Still to confirm with supplier: child car seats (x3), insurance details
 
 ## 3. Route Overview
 
@@ -49,8 +48,9 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 - ⚠️ Papantoniou Supermarket (Kato Paphos) closes 21:00 — tight with the later landing; may be worth a quick stop on the way in instead, or grocery run first thing Day 2
 - Dinner in the apartment
 
-### Day 2 — Thu 13/08 — Paphos: beach & promenade
-- 10:00 Coral Bay Beach (10:15–13:00)
+### Day 2 — Thu 13/08 — Paphos: tombs, beach & promenade
+- 08:30 Tombs of the Kings (08:30–09:15) — open-air, kids go free, go at opening to beat the heat
+- 09:30 Coral Bay Beach (09:30–13:00)
 - 13:00 lunch — Oniro By The Sea
 - 14:00 Paphos Harbour promenade (14:20–17:30)
 - *Optional: buggy/jeep safari (check min. age 5–8, seatbelts, insurance — eretzofir.com)*
@@ -74,20 +74,21 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 - ⚠️ Buy tickets in advance, check family discount
 - Return 17:00, dinner in apartment
 
-### Day 6 — Mon 17/08 — Paphos → Limassol → Omodos → Platres
+### Day 6 — Mon 17/08 — Paphos → Omodos → Platres
 - Checkout Elysia Park (by 11:00, aim to leave ~09:00)
-- 09:00 drive (50 min) → Limassol Marina & Molos Promenade (10:00–12:00)
-- Lunch near marina
-- 13:00 drive (30 min) → Omodos Village (13:30–15:00)
-- 15:00 drive (25 min) → **New Helvetia Hotel, Platres** (check-in 14:00, arrive ~15:30)
-- 17:00 evening stroll, Platres Village
+- 09:00 drive (~60 min) → Omodos Village
+- 10:00 Omodos Village (10:00–10:45) — short stop: sweet shops (soutzoukos, Cyprus delight), a peek at the monastery; skip the wine tasting/lace shops
+- 11:00 lunch — village taverna, Omodos
+- 12:00 drive (25 min) → **New Helvetia Hotel, Platres** (check-in from 14:00, arrive ~12:30 — free time in Platres Village before check-in)
+- 15:30 afternoon & evening in Platres Village
 - Dinner — *2 restaurants still to be chosen, one per Platres evening*
 
 ### Day 7 — Tue 18/08 — Troodos highlights
-- 09:30 Caledonia Falls Trail (hiking shoes + water)
-- 12:00 Troodos Square (lunch — *restaurant TBD*)
-- 14:15 Mount Olympus Viewpoint
-- 15:15 back to Platres Village, relaxed evening
+- 09:30 Caledonia Falls Trail (09:30–11:00; hiking shoes + water — ~3km round trip over uneven ground, budget time to carry Noam (4) part of the way)
+- 12:00 Troodos Square (lunch — *restaurant TBD*; playground on-site, let the kids play after lunch)
+- 13:30 *Optional:* Sparti Rope Park — verify Noam (4) clears the minimum height for the easiest circuit (often ~100–110cm) before committing
+- 15:00 *Optional:* Mount Olympus Viewpoint — a viewpoint, not a highlight; first thing to cut if the day runs long
+- 15:45 back to Platres Village, relaxed evening
 - Dinner at hotel/Platres
 
 ### Day 8 — Wed 19/08 — Platres → Ayia Napa
@@ -144,7 +145,7 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 
 ## 6. Open To-Dos (from the trip booklet)
 
-- [ ] Confirm rental car: child seats (x3), insurance, drop-off logistics
+- [ ] Verify Sparti Rope Park's minimum height for the easiest circuit — confirm Noam (4) clears it
 - [ ] Buy Paphos Aphrodite Waterpark tickets in advance (check family discount)
 - [ ] Buy WaterWorld (Ayia Napa) tickets in advance (check family discount)
 - [ ] Decide on Blue Lagoon/Cape Greco boat trip (Fri 21/08 only, short cruise, back by 17:00–17:30)
@@ -161,7 +162,7 @@ Oniro By The Sea (Paphos) · Seriani Restaurant (Coral Bay) · St. Georges Taver
 
 ## 8. Key Sites & Activities Reference
 
-Coral Bay Beach · Paphos Harbour · Sea Caves Paphos · Edro III Shipwreck · Paphos Aphrodite Waterpark · Limassol Marina & Molos Promenade · Omodos Village · Caledonia Falls Trail · Troodos Square · Mount Olympus Viewpoint · Platres Village · Ayia Napa Square · Parko Paliatso Luna Park · WaterWorld Waterpark · Fig Tree Bay · Protaras Promenade · Cape Greco/Blue Lagoon (optional) · Ayia Napa Harbour · Finikoudes Beach/Promenade · Metropolis Mall · JUMBO Larnaca · Mackenzie Promenade
+Tombs of the Kings · Coral Bay Beach · Paphos Harbour · Sea Caves Paphos · Edro III Shipwreck · Paphos Aphrodite Waterpark · Omodos Village · Caledonia Falls Trail · Troodos Square · Sparti Rope Park (optional) · Mount Olympus Viewpoint (optional) · Platres Village · Ayia Napa Square · Parko Paliatso Luna Park · WaterWorld Waterpark · Fig Tree Bay · Protaras Promenade · Cape Greco/Blue Lagoon (optional) · Ayia Napa Harbour · Finikoudes Beach/Promenade · Metropolis Mall · JUMBO Larnaca · Mackenzie Promenade
 
 ---
 *Source files: `טיול_לקפריסין_אוגוסט_2026_חוברת_מלאה_להדפסה.docx`, `Booking.com_ Confirmation.pdf` (×4), `My Booking – Booking.com.pdf` — all in `/Users/yanivkalif/Downloads/cyprus/`.*

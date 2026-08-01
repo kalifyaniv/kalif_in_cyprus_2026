@@ -107,17 +107,18 @@ export const locations: Record<string, Location> = {
     verified: true,
     notes: "To book — matched as 'Seven St. Georges Tavern', Yeroskipou",
   },
-
-  // Platres / Troodos (incl. Limassol/Omodos waypoints on the transfer day)
-  "limassol-marina-molos": {
-    id: "limassol-marina-molos",
-    name: "Limassol Marina & Molos Promenade",
-    category: "town",
-    region: "platres-troodos",
-    lat: 34.6696,
-    lng: 33.0402,
+  "tombs-of-the-kings": {
+    id: "tombs-of-the-kings",
+    name: "Tombs of the Kings",
+    category: "historic",
+    region: "paphos",
+    lat: 34.7763,
+    lng: 32.405,
     verified: true,
+    notes: "Kids go free; go at 8:30am opening to beat the heat",
   },
+
+  // Platres / Troodos (incl. Omodos waypoint on the transfer day)
   "omodos-village": {
     id: "omodos-village",
     name: "Omodos Village",
@@ -145,6 +146,16 @@ export const locations: Record<string, Location> = {
     lat: 34.8886,
     lng: 32.8649,
     verified: true,
+  },
+  "sparti-rope-park": {
+    id: "sparti-rope-park",
+    name: "Sparti Rope Park",
+    category: "misc",
+    region: "platres-troodos",
+    lat: 34.883,
+    lng: 32.8631,
+    verified: true,
+    notes: "Optional — verify Noam (4) clears the minimum height for the easiest circuit before committing",
   },
   "caledonia-falls-trail": {
     id: "caledonia-falls-trail",

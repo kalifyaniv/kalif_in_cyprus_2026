@@ -5,6 +5,7 @@ export const todos: TodoItem[] = [
   { id: "confirm-accommodation-headcount", label: "Call Elysia Park, New Helvetia & Cyprotel Florida to confirm occupancy for the 3rd child", done: false, dueDay: 0 },
   { id: "confirm-new-helvetia-ac", label: "Confirm with New Helvetia whether the room has air conditioning", done: false, dueDay: 0 },
   { id: "check-wildfire-advisory", label: "Check Cyprus Mail forest-fire coverage 3–5 days before departure (Platres/Omodos area)", done: false, dueDay: 0 },
+  { id: "verify-sparti-rope-park-height", label: "Verify Sparti Rope Park's minimum height for the easiest circuit — confirm Noam (4) clears it", done: false, dueDay: 0 },
   { id: "decide-paphos-jeep-tour", label: "Decide on Paphos jeep/buggy tour (check min. age for kids 5-8, safety gear, insurance)", done: false, dueDay: 2 },
   { id: "pick-paphos-shabbat-tavern", label: "Pick a tavern in Paphos for Motzei Shabbat dinner (Day 4)", done: false, dueDay: 4 },
   { id: "book-st-georges-tavern", label: "Book table at St. Georges Tavern — ask about live music", done: false, dueDay: 4 },

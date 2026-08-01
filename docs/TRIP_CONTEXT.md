@@ -2,9 +2,9 @@
 
 This is the master reference for the trip: who's traveling, every confirmed booking, insurance,
 dietary rules, and everything still undecided. `Cyprus_Trip_Overview.md` has the day-by-day
-itinerary; `Cyprus_Trip_Critique.md` and `Cyprus_TourGuide_Review.md` have two rounds of
-recommendations that have **not** been merged into the itinerary yet — that's part of "refining
-the plan," a separate next step from this doc.
+itinerary. `Cyprus_Trip_Critique.md` and `Cyprus_TourGuide_Review.md` are two rounds of
+recommendations against the original booklet — some have since been applied to the itinerary
+(§7), the rest are still pending (§8).
 
 **Dates:** Wed 12 Aug 2026 → Wed 26 Aug 2026 (15 days / 14 nights)
 **Shabbat rule (all 15 days):** no driving after 19:00 Friday · no driving Saturday · driving resumes 20:00 Saturday night
@@ -98,33 +98,54 @@ That's 11 of 14 nights booked short a child. Call/email each property ahead of c
 
 ## 6. Day-by-Day Itinerary
 
-See `Cyprus_Trip_Overview.md` for the full day-by-day plan (currently unchanged from the original booklet).
+See `Cyprus_Trip_Overview.md` for the full day-by-day plan. As of the first "refine the plan" pass
+(below), Days 2, 6, and 7 now differ from the original booklet.
 
 ---
 
-## 7. Pending Recommendations (not yet applied)
+## 7. Changes Applied (first refine-the-plan pass)
 
-Two review passes were done against the itinerary and haven't been merged in — this is raw material for the "refine the plan" pass:
+Went through the pending recommendations below with a specific lens: would this actually suit a
+4/6/8-year-old, not just "is it a good idea in general." Applied:
+
+- **Day 2**: Added Tombs of the Kings, 45 min at 8:30am opening, *before* Coral Bay Beach (not instead
+  of it — costs no beach time). **Deliberately dropped House of Dionysus mosaics** from this idea —
+  it's a "stand on a walkway and look at the floor" experience, realistically a 10–15 min tolerance
+  window for a 4-year-old.
+- **Day 6**: Dropped Limassol Marina, kept Omodos. Reasoning: the trip already has four other
+  water-promenade stops (Paphos Harbour, Ayia Napa Harbour, Finikoudes, Mackenzie), so a marina costs
+  nothing to cut, while Omodos is the only mountain-village stop in 15 days. Kept short and reframed
+  as a sweets/monastery-peek stop, not a wine-tasting browse (not relevant to this group) — Omodos'
+  cobblestones are worse footing than a marina boardwalk, worth knowing, but the stop is brief enough
+  not to matter much. Now a direct Paphos → Omodos → Platres route (was Paphos → Limassol → Omodos →
+  Platres).
+- **Day 7**: Added Sparti Rope Park (right in Platres, zero extra driving) as **optional** — flagged
+  because rope parks almost always have a minimum height for even the easiest circuit (often
+  ~100–110cm) and it's not confirmed Noam (4) clears it; see the to-do below. Mount Olympus is now
+  also optional/first-to-cut if the day runs long (it's a viewpoint, not a highlight). Added a note
+  that Caledonia Falls is a real ~3km hike over uneven ground — budget time to carry Noam part of the
+  way.
+- **Day 13 (Larnaca) — explicitly NOT changed.** The tour-guide review flagged Metropolis Mall +
+  JUMBO as the weakest day in the trip and suggested swapping in Larnaca Fort/Medieval Museum. Decided
+  to keep the mall + JUMBO as originally planned.
+
+## 8. Still Pending (not yet applied)
 
 **From `Cyprus_Trip_Critique.md`:**
 - Wildfire risk near Omodos/Platres (Day 6–7) — check Cyprus Mail forest-fire coverage 3–5 days before departure; fallback is to skip Omodos/Platres and extend Paphos instead
 - Book the Blue Lagoon boat trip's specific AM 2-hour slot (~9:30, boarding 8:45–9:15), not a 4–5hr version
 - Treat WaterWorld's actual opening time as the arrival target, not the planned 10:00 — expect it to be busy in August
 - Skip the Day 1 grocery run (jet-lagged 4-year-old, tight timing with the later landing); do groceries Day 2 morning instead
-- Day 7 (Troodos): if the day runs long, cut Mount Olympus first
 
 **From `Cyprus_TourGuide_Review.md`:**
-- Add: Tombs of the Kings + House of Dionysus mosaics (Paphos, UNESCO sites, kid-friendly) — swap in for one of the two Coral Bay mornings
-- Add: Sparti Rope Park, literally in Platres where you're already staying
-- Add: Troodos Square playground (no extra time needed, already stopping there)
-- Add: Aphrodite's Rock — on the Day 6 driving route, free 20–30 min stop
-- Reconsider: Day 13 in Larnaca (Metropolis Mall + JUMBO) is the weakest day — trim the mall, swap in Larnaca Fort/Medieval Museum or a short boat/kayak trip
+- Add: Troodos Square playground (folded into the Day 7 lunch stop's description — no schedule change needed)
+- Add: Aphrodite's Rock — still undecided; on the Day 6 driving route, free 20–30 min stop
 - Reconsider: Latchi boat + waterslide trip may be a safer, better-reviewed alternative to the Paphos jeep/buggy safari for a 4-year-old
-- Confirmed fine, no change needed: Fig Tree Bay over Nissi Beach, Elysia Park, Aphrodite Waterpark timing, the Troodos/Platres leg overall, Omodos
+- Confirmed fine, no change needed: Fig Tree Bay over Nissi Beach, Elysia Park, Aphrodite Waterpark timing, the Troodos/Platres leg overall
 
 ---
 
-## 8. Open Decisions (to work through together)
+## 9. Open Decisions (to work through together)
 
 - [ ] Restaurant/tavern picks — factor in kosher-meat-only rule (dairy/fish OK anywhere; meat needs kosher certification)
   - [ ] Pick 2 restaurants in Platres (one per evening)
@@ -136,14 +157,15 @@ Two review passes were done against the itinerary and haven't been merged in —
 - [ ] Paphos add-on: jeep/buggy safari vs. Latchi boat + waterslide (tour-guide review favors the boat for a 4-year-old)
 - [ ] Buy Paphos Aphrodite Waterpark tickets in advance (check family discount)
 - [ ] Buy WaterWorld (Ayia Napa) tickets in advance (check family discount)
-- [ ] Whether to fold in the "Add" items from the tour-guide review (Tombs of the Kings, House of Dionysus, Sparti Rope Park, Aphrodite's Rock) and the Day 13 Larnaca swap
+- [ ] Aphrodite's Rock — worth adding to the Day 6 drive or not?
 
-## 9. Other Action Items
+## 10. Other Action Items
 
 - [ ] Confirm the CY111 schedule-change reissue terms via Cyprus Airways Manage Booking (ref 86G6DZ) — see §2
 - [ ] Call each accommodation to confirm occupancy for the 3rd child — see §5
 - [ ] Confirm with New Helvetia whether the room has air conditioning — see §5
 - [ ] Check Cyprus Mail forest-fire coverage 3–5 days before departure (wildfire risk near Platres/Omodos)
+- [ ] Verify Sparti Rope Park's minimum height for the easiest circuit — confirm Noam (4) clears it before Day 7
 
 ---
 

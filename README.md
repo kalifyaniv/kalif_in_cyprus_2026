@@ -1,32 +1,36 @@
-# React + TypeScript + Vite
+# Cyprus 2026 🌊
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A trip-companion site for our family's Cyprus trip, 12–26 August 2026 — itinerary, maps, bookings,
+and a running to-do list, day by day.
 
-Currently, two official plugins are available:
+Deployed via Vercel (see the project's Vercel dashboard for the live URL). This repo is public;
+see [docs/TRIP_CONTEXT.md](./docs/TRIP_CONTEXT.md) for why that's a deliberate call, not an
+oversight.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What's here
 
-## React Compiler
+- **Overview** (`/`) — hero, route summary, trip-wide map, date-grouped to-dos, restaurant shortlist
+- **Today** (`/today`) — auto-shows the current day's plan during the trip; a countdown/wrap-up card otherwise
+- **Calendar** (`/calendar`) — the 15 days as a month grid, color-coded by region
+- **Day pages** (`/day/:n`) — per-day timeline, map with real road-routed directions (OSRM), Shabbat banner
+- **Trip Info** (`/info`) — Flights, Car Rental, Insurance, Accommodation, each with links to the
+  original booking and the matching confirmation doc in Drive
+- Light/dark theme, persisted
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Content vs. code
 
-## Expanding the Oxlint configuration
+Trip content (who's traveling, bookings, open decisions) lives in [`docs/`](./docs) as the
+human-readable reference, and in `src/data/*.ts` as what the site actually renders. When one
+changes, check the other — they're meant to stay in sync, not auto-derived from each other.
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## Development
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev      # local dev server
+npm run lint      # oxlint
+npm run build     # typecheck + production build
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+Stack: React 19 + TypeScript, Vite, Tailwind v4, React Router, Leaflet (via react-leaflet),
+Framer Motion.
