@@ -122,12 +122,16 @@ Promenade stroll (no booking needed). **17:00 — return, shower/Shabbat prep. N
 - 20:00 (Motzei Shabbat) drive → Isaac Tavern (check for live music, book table)
 - 22:00 walk to Ayia Napa Harbour, then back to hotel
 
-### Day 12 — Sun 23/08 — Ayia Napa → Larnaca
-- Checkout Cyprotel Florida (by 11:00)
-- 11:00 drive (40 min) → Larnaca
-- Lunch near Finikoudes
+### Day 12 — Sun 23/08 — Ayia Napa → Larnaca 🧭 *flexible morning, then fixed*
+- Checkout Cyprotel Florida (by 11:00) — pack the car, this is a stop on the way out, not a
+  dedicated day
+- **Anchor: Ayia Napa Sculpture Park** (~1.5-2h, free, on the way toward Cape Greco)
+- Cape Greco viewpoint & Cyclops Cave (~45min-1h, easy walk from the car park) — skip the swim
+  here, save it for Finikoudes this afternoon so no one's wet for the drive
+- Lunch in the Ayia Napa/Cape Greco area before departing
+- 14:15 drive (~50 min, ~10 min longer than the direct route) → Larnaca
 - 15:00 check in **Quattro Beachfront Ap 206**
-- 15:30 relaxed time at Finikoudes Beach/Promenade
+- 15:30 relaxed time at Finikoudes Beach/Promenade (swim happens here)
 - Dinner in apartment
 
 ### Day 13 — Mon 24/08 — Larnaca: shopping & promenade 🧭 *flexible — no fixed clock*
@@ -170,7 +174,8 @@ none currently booked. No kosher option exists in Platres/Troodos.
 
 ## 8. Key Sites & Activities Reference
 
-Marina AlphaMega, ASADO kosher, or AlphaMega Linopetra (pick one, Day 1 Limassol stop) · Tombs of the Kings · Faros Beach · Coral Bay Beach · Paphos Harbour · Sea Caves Paphos · Edro III Shipwreck · Paphos Aphrodite Waterpark · Omodos Village · Caledonia Falls Trail · Troodos Square · Sparti Rope Park (pick one, Day 7) · Mount Olympus Viewpoint (pick one, Day 7) · Platres Village · Ayia Napa Square · Parko Paliatso Luna Park · WaterWorld Waterpark · Fig Tree Bay · Protaras Promenade · Cape Greco/Blue Lagoon (pick one, Day 10) · Ayia Napa Harbour · Finikoudes Beach/Promenade · Metropolis Mall · JUMBO Larnaca · Mackenzie Promenade
+Marina AlphaMega, ASADO kosher, or AlphaMega Linopetra (pick one, Day 1 Limassol stop) · Tombs of the Kings · Faros Beach · Coral Bay Beach · Paphos Harbour · Sea Caves Paphos · Edro III Shipwreck · Paphos Aphrodite Waterpark · Omodos Village · Caledonia Falls Trail · Troodos Square · Sparti Rope Park (pick one, Day 7) · Mount Olympus Viewpoint (pick one, Day 7) · Platres Village · Ayia Napa Square · Parko Paliatso Luna Park · WaterWorld Waterpark · Fig Tree Bay · Protaras Promenade · Cape Greco/Blue Lagoon (pick one, Day 10) · Ayia Napa Harbour · Ayia Napa Sculpture Park · Cape
+Greco viewpoint & Cyclops Cave (Day 12) · Finikoudes Beach/Promenade · Metropolis Mall · JUMBO Larnaca · Mackenzie Promenade
 
 ---
 *Source files: `טיול_לקפריסין_אוגוסט_2026_חוברת_מלאה_להדפסה.docx`, `Booking.com_ Confirmation.pdf` (×4), `My Booking – Booking.com.pdf` — all in `/Users/yanivkalif/Downloads/cyprus/`.*

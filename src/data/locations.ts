@@ -334,6 +334,26 @@ export const locations: Record<string, Location> = {
     verified: true,
     notes: "Optional boat trip — Cape Greco National Park centroid; Blue Lagoon cove is a specific spot within it",
   },
+  "ayia-napa-sculpture-park": {
+    id: "ayia-napa-sculpture-park",
+    name: "Ayia Napa Sculpture Park",
+    category: "misc",
+    region: "ayia-napa",
+    lat: 34.9848519,
+    lng: 34.0196062,
+    verified: true,
+    notes: "Free entry, ~1.5-2h. Loose gravel underfoot in places — hold hands with the little ones.",
+  },
+  "cape-greco-viewpoint": {
+    id: "cape-greco-viewpoint",
+    name: "Cape Greco National Forest Park (viewpoint & sea caves)",
+    category: "nature",
+    region: "ayia-napa",
+    lat: 34.9618822,
+    lng: 34.0655967,
+    verified: true,
+    notes: "Land-based visit (distinct from the Day 10 boat-trip option) — main viewpoint and Cyclops Cave are an easy walk from the car park. Free entry.",
+  },
 
   // Larnaca
   "quattro-beachfront": {

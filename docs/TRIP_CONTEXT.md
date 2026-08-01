@@ -181,7 +181,7 @@ findings:
      Kapatsos restaurant on-site plus more nearby. Biggest detour of the three (~4–5km inland,
      exact drive time not verified — check Maps before committing). Wed 07:00–21:00.
   Whichever is picked, this resolves the "skip the Day 1 grocery run" item that was sitting in
-  §11 below — done, not skipped, just moved earlier and given real options.
+  §12 below — done, not skipped, just moved earlier and given real options.
 
 ## 10. Kosher Dining Research
 
@@ -211,7 +211,39 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 
 ---
 
-## 11. Still Pending (not yet applied)
+## 11. Ayia Napa: Extra Night vs. Fit-It-In-The-Transfer-Day
+
+Question: is it worth shifting a night from Larnaca (3N) to Ayia Napa (4N→5N) to fit in more
+Ayia Napa content, since two genuinely good, free, kid-appropriate attractions weren't on the
+itinerary at all — **Cape Greco National Forest Park** (land-based: Aphrodite Trail, Cyclops
+Cave, main viewpoint, Konnos Bay swim — distinct from the Day 10 boat-trip option) and **Ayia
+Napa Sculpture Park** (free, ~1.5-2h, families/teens both engage well, loose gravel underfoot is
+the one safety note).
+
+Decided **against** shifting a night:
+- **Quattro Beachfront (Larnaca) is non-refundable after 8 Aug** — a real, time-sensitive
+  constraint, not a soft preference.
+- Larnaca's light 3-night pacing right before the flight home is deliberate — short drive to the
+  airport, low-key days, no risk of over-scheduling the exhausted tail end of a 15-day trip with
+  3 young kids. This was the same reasoning from the original full-trip review pass (§7).
+
+Instead, both attractions were fit into **Day 12 (Ayia Napa → Larnaca transfer)**, which already
+had a 4-hour dead gap between the 11:00 checkout and the 15:00 Larnaca check-in:
+- Checkout 11:00 → Sculpture Park (anchor, ~1.5-2h) → Cape Greco viewpoint & Cyclops Cave
+  (~45min-1h, swim skipped here to avoid wet kids in the car) → lunch in the Ayia Napa/Cape Greco
+  area → drive to Larnaca.
+- Drive time from Cape Greco to Larnaca is ~50 min vs. ~40 min direct from Ayia Napa town — only
+  about 10 extra minutes of driving, verified via search.
+- The Finikoudes swim already planned for 15:30 absorbs the swim time that would otherwise have
+  been spent at Konnos Bay.
+
+Net effect: real new content, no extra night, no booking risk, ~10 minutes more driving. Day 12
+is now marked `flexible: true` for its morning portion (fixed bookends: 11:00 checkout, 15:00
+check-in). New locations added: `ayia-napa-sculpture-park`, `cape-greco-viewpoint`.
+
+---
+
+## 12. Still Pending (not yet applied)
 
 **From `Cyprus_Trip_Critique.md`:**
 - Wildfire risk near Omodos/Platres (Day 6–7) — check Cyprus Mail forest-fire coverage 3–5 days before departure; fallback is to skip Omodos/Platres and extend Paphos instead
@@ -226,7 +258,7 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 
 ---
 
-## 12. Open Decisions (to work through together)
+## 13. Open Decisions (to work through together)
 
 - [ ] Restaurant/tavern picks — factor in kosher-meat-only rule (dairy/fish OK anywhere; meat needs kosher certification)
   - [ ] Pick 2 restaurants in Platres (one per evening) — no kosher option here, dairy/veg only
@@ -240,7 +272,7 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 - [ ] Buy WaterWorld (Ayia Napa) tickets in advance (check family discount)
 - [ ] Aphrodite's Rock — worth adding to the Day 6 drive or not?
 
-## 13. Other Action Items
+## 14. Other Action Items
 
 - [ ] Confirm the CY111 schedule-change reissue terms via Cyprus Airways Manage Booking (ref 86G6DZ) — see §2
 - [ ] Call each accommodation to confirm occupancy for the 3rd child — see §5
