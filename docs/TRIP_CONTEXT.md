@@ -98,10 +98,10 @@ That's 11 of 14 nights booked short a child. Call/email each property ahead of c
 
 ## 6. Day-by-Day Itinerary
 
-See `Cyprus_Trip_Overview.md` for the full day-by-day plan. As of two "refine the plan" passes
-(below), Days 2, 3, 6, 7, 10, 13, and 14 now differ from the original booklet. Days 2, 3, 7, 10, 13,
-and 14 are also now **flexible** — no fixed clock, one Anchor + (where relevant) a Pick-one choice
-— everything else keeps its normal timed schedule.
+See `Cyprus_Trip_Overview.md` for the full day-by-day plan. As of three "refine the plan" passes
+(below), Days 1, 2, 3, 6, 7, 10, 13, and 14 now differ from the original booklet. Days 2, 3, 7, 10,
+13, and 14 are also now **flexible** — no fixed clock, one Anchor + (where relevant) a Pick-one
+choice — everything else keeps its normal timed schedule.
 
 ---
 
@@ -159,7 +159,31 @@ one" grouped UI on the day timeline):
 - **Day 14**: Anchor = Finikoudes Beach/Mackenzie relaxed day. Lunch is now a `choiceGroup`:
   Zephyros Restaurant vs. Sambation (kosher meat).
 
-## 9. Kosher Dining Research
+## 9. Day 1 — Drive Timing & Grocery Stop
+
+Checked the Larnaca Airport → Elysia Park drive itself. The road is a proper 4-lane A5/A6
+motorway the whole way — not technically demanding, unlike the Troodos mountain roads. Two real
+findings:
+
+- **Sun glare**: the 18:30–20:05 drive window is almost entirely before mid-August sunset
+  (~19:55–20:00 in Paphos), and the route heads broadly west — expect glare in the final
+  30–45 minutes. No plan change from this, just a heads-up to have sunglasses/the visor ready.
+- **Groceries/dinner — now a 3-way pick, not a single fixed stop.** The original plan (arrive
+  20:05, then go find a supermarket) was tight; resolved by moving the stop earlier into the
+  drive itself, with a real choice of what to do there (`choiceGroup: "day1-stop"` in `days.ts`):
+  1. **Marina AlphaMega (convenience)** — quickest, open until 22:00, arrival-night basics only
+     (not a full stock-up — that's Paphos Day 2). KFC on-site.
+  2. **ASADO – Nice to Meat (kosher)** — a real kosher meat restaurant. Initially estimated at a
+     ~2.5km detour based on an older Chabad address; the actual current address geocodes to
+     **~300m from the Marina, walkable** — worth correcting, this is a much smaller cost than
+     first thought. Wed 12:00–23:00.
+  3. **AlphaMega Linopetra (full hypermarket)** — the real "proper supermarket," 2 stories, with
+     Kapatsos restaurant on-site plus more nearby. Biggest detour of the three (~4–5km inland,
+     exact drive time not verified — check Maps before committing). Wed 07:00–21:00.
+  Whichever is picked, this resolves the "skip the Day 1 grocery run" item that was sitting in
+  §11 below — done, not skipped, just moved earlier and given real options.
+
+## 10. Kosher Dining Research
 
 Went looking for real kosher options near the route, given most of the restaurant shortlist is
 regular (non-kosher) tavernas. Found genuine, Chabad-affiliated kosher-meat restaurants at 3 of the
@@ -187,13 +211,12 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 
 ---
 
-## 10. Still Pending (not yet applied)
+## 11. Still Pending (not yet applied)
 
 **From `Cyprus_Trip_Critique.md`:**
 - Wildfire risk near Omodos/Platres (Day 6–7) — check Cyprus Mail forest-fire coverage 3–5 days before departure; fallback is to skip Omodos/Platres and extend Paphos instead
 - Book the Blue Lagoon boat trip's specific AM 2-hour slot (~9:30, boarding 8:45–9:15), not a 4–5hr version
 - Treat WaterWorld's actual opening time as the arrival target, not the planned 10:00 — expect it to be busy in August
-- Skip the Day 1 grocery run (jet-lagged 4-year-old, tight timing with the later landing); do groceries Day 2 morning instead
 
 **From `Cyprus_TourGuide_Review.md`:**
 - Add: Troodos Square playground (folded into the Day 7 lunch stop's description — no schedule change needed)
@@ -203,7 +226,7 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 
 ---
 
-## 11. Open Decisions (to work through together)
+## 12. Open Decisions (to work through together)
 
 - [ ] Restaurant/tavern picks — factor in kosher-meat-only rule (dairy/fish OK anywhere; meat needs kosher certification)
   - [ ] Pick 2 restaurants in Platres (one per evening) — no kosher option here, dairy/veg only
@@ -217,14 +240,14 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 - [ ] Buy WaterWorld (Ayia Napa) tickets in advance (check family discount)
 - [ ] Aphrodite's Rock — worth adding to the Day 6 drive or not?
 
-## 12. Other Action Items
+## 13. Other Action Items
 
 - [ ] Confirm the CY111 schedule-change reissue terms via Cyprus Airways Manage Booking (ref 86G6DZ) — see §2
 - [ ] Call each accommodation to confirm occupancy for the 3rd child — see §5
 - [ ] Confirm with New Helvetia whether the room has air conditioning — see §5
 - [ ] Check Cyprus Mail forest-fire coverage 3–5 days before departure (wildfire risk near Platres/Omodos)
 - [ ] Verify Sparti Rope Park's minimum height for the easiest circuit — confirm Noam (4) clears it before Day 7
-- [ ] Call ahead to Jerusalem Restaurant / Mush Kosher Restaurant / Sambation to confirm they're still operating and current hours before counting on any of them — see §9
+- [ ] Call ahead to Jerusalem Restaurant / Mush Kosher Restaurant / Sambation to confirm they're still operating and current hours before counting on any of them — see §10
 
 ---
 

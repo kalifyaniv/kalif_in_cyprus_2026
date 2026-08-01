@@ -22,14 +22,39 @@ export const days: DayPlan[] = [
         locationId: "larnaca-airport",
         description: "After landing/baggage claim.",
       },
-      { time: "18:30", type: "drive", title: "Drive to Paphos", driveDurationMinutes: 95 },
-      { time: "20:05", type: "checkin", title: "Check in Elysia Park", locationId: "elysia-park" },
+      { time: "18:30", type: "drive", title: "Drive to Limassol", driveDurationMinutes: 50 },
+      {
+        type: "shopping",
+        title: "Marina AlphaMega (convenience)",
+        locationId: "alphamega-limassol-marina",
+        choiceGroup: "day1-stop",
+        description:
+          "Quickest option. Open until 22:00. Convenience format, not a hypermarket — fine for arrival-night basics (milk, bread, fruit, water, snacks), not a full stock-up; that happens in Paphos Day 2. KFC on-site if you'd rather eat here than cook at the apartment.",
+      },
       {
         type: "meal",
-        title: "Dinner in the apartment",
+        title: "ASADO – Nice to Meat (kosher)",
+        locationId: "asado-kosher-limassol",
+        choiceGroup: "day1-stop",
         description:
-          "⚠️ Papantoniou Supermarket (Kato Paphos) closes 21:00 — tight with the later landing; consider a quick stop on the way in, or a grocery run first thing Day 2.",
+          "Real kosher meat dinner, ~300m from the Marina (walkable) — closer than first thought. Wed 12:00–23:00. Costs more time than the Marina stop for the sit-down meal itself, but the detour from the route is minimal.",
       },
+      {
+        type: "shopping",
+        title: "AlphaMega Linopetra (full hypermarket)",
+        locationId: "alphamega-linopetra",
+        choiceGroup: "day1-stop",
+        description:
+          "Biggest detour of the three (~4–5km inland, exact drive time unverified — check Maps before committing). Full 2-story hypermarket for a proper stock-up, plus Kapatsos restaurant on-site and more nearby. Open Wed 07:00–21:00.",
+      },
+      {
+        type: "drive",
+        title: "Drive to Paphos",
+        driveDurationMinutes: 45,
+        description: "45–70+ min depending which Limassol stop was picked — Linopetra adds the most time.",
+      },
+      { type: "checkin", title: "Check in Elysia Park", locationId: "elysia-park", description: "Check-in accepted until 23:00 — no rush." },
+      { type: "meal", title: "Dinner in the apartment", description: "Groceries already sourced at the Limassol stop (unless you ate at ASADO)." },
     ],
   },
   {

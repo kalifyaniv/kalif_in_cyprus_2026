@@ -17,6 +17,36 @@ export const locations: Record<string, Location> = {
     lng: 33.6249,
     verified: true,
   },
+  "alphamega-limassol-marina": {
+    id: "alphamega-limassol-marina",
+    name: "AlphaMega, Limassol Marina",
+    category: "shopping",
+    region: "paphos",
+    lat: 34.6703,
+    lng: 33.0407,
+    verified: true,
+    notes: "Convenience format, open until 22:00 — quickest of the 3 Day 1 stop options",
+  },
+  "asado-kosher-limassol": {
+    id: "asado-kosher-limassol",
+    name: "ASADO – Nice to Meat",
+    category: "restaurant",
+    region: "paphos",
+    lat: 34.6725,
+    lng: 33.0431,
+    verified: true,
+    notes: "Kosher meat, Rabbi Yair Baitz supervision, Dimitriou Mitropoulou 10, Limassol old town — ~300m from the Marina, Wed 12:00–23:00",
+  },
+  "alphamega-linopetra": {
+    id: "alphamega-linopetra",
+    name: "AlphaMega Linopetra",
+    category: "shopping",
+    region: "paphos",
+    lat: 34.7069,
+    lng: 33.061,
+    verified: false,
+    notes: "Full 2-story hypermarket + Kapatsos restaurant on-site, Georgiou Griva Digeni 118, Wed 07:00–21:00 — pin is the Linopetra Junction area, not the exact storefront; biggest detour of the 3 Day 1 options",
+  },
 
   // Paphos
   "elysia-park": {
