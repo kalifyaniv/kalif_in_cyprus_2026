@@ -111,8 +111,20 @@ export interface TodoItem {
 export interface Restaurant {
   id: string;
   name: string;
+  /** Short area/town label, used to build a reliable Google search link (e.g. "Coral Bay, Paphos"). */
+  area: string;
   locationId?: string;
-  status: "confirmed" | "to-book";
+  /**
+   * "planned" = the settled pick for its meal slot, no reservation needed (walk-in style).
+   * "to-book" = the pick, but needs an actual reservation call before you go.
+   * "undecided" = competing with another restaurant for the same meal slot — not chosen yet.
+   */
+  status: "planned" | "to-book" | "undecided";
+  /** Kosher status, where known. "unknown" means not stated anywhere in our sources — assume not certified for meat. */
+  kosher?: "certified-meat" | "certified-dairy" | "certified-parve" | "not-certified" | "unknown";
+  /** Google rating out of 5, from a web search — spot-check before relying on it, ratings drift. */
+  googleRating?: number;
+  googleReviewCount?: number;
   notes?: string;
 }
 

@@ -129,7 +129,35 @@ Went through the pending recommendations below with a specific lens: would this 
   JUMBO as the weakest day in the trip and suggested swapping in Larnaca Fort/Medieval Museum. Decided
   to keep the mall + JUMBO as originally planned.
 
-## 8. Still Pending (not yet applied)
+## 8. Kosher Dining Research
+
+Went looking for real kosher options near the route, given most of the restaurant shortlist is
+regular (non-kosher) tavernas. Found genuine, Chabad-affiliated kosher-meat restaurants at 3 of the
+4 stops:
+
+- **Jerusalem Restaurant** (Kato Paphos) — kosher meat, Chabad Paphos supervision, 5 Othellou St · +357 99981770. No Google rating found yet (small/newer listing).
+- **Mush Kosher Restaurant** (Ayia Napa) — kosher meat, at Chabad of Ayia Napa, Cavo Greco 11 · +357 97769254. No Google rating found yet.
+- **Sambation** (Larnaca) — kosher meat (Glatt), Chabad Larnaca, Apollodorou 4 · Sun–Thu 11:30–21:30 · +357 24242425 · Google 4.4 (73 reviews). Delivery available — could order to the Quattro Beachfront apartment instead of going out.
+
+**No kosher option exists in Platres/Troodos** — a genuine gap, worth planning around (bring food
+from Paphos, or stick to dairy/veg at whatever Platres restaurants get picked).
+
+These are real candidates for two of the still-open restaurant decisions:
+- Day 4 (Paphos, Motzei Shabbat) — Jerusalem Restaurant instead of an undecided regular tavern
+- Day 11 (Ayia Napa, Motzei Shabbat) — Mush Kosher Restaurant instead of Isaac Tavern
+
+Not decided yet — Isaac Tavern was picked partly for its live-music atmosphere, which these kosher
+options may or may not match. Small kosher spots like these can also change hours/status year to
+year — call ahead before relying on any of the three.
+
+All 6 original restaurants in the shortlist are now tagged `kosher: "not-certified"` in
+`src/data/restaurants.ts` (assume dairy/fish/veg only there, skip meat), each with its real Google
+rating, and the site's restaurant status labels were renamed from "Confirmed"/"To book" to
+"Planned"/"To book" — none of these were ever actual reservations, "Confirmed" was misleading.
+
+---
+
+## 9. Still Pending (not yet applied)
 
 **From `Cyprus_Trip_Critique.md`:**
 - Wildfire risk near Omodos/Platres (Day 6–7) — check Cyprus Mail forest-fire coverage 3–5 days before departure; fallback is to skip Omodos/Platres and extend Paphos instead
@@ -145,13 +173,13 @@ Went through the pending recommendations below with a specific lens: would this 
 
 ---
 
-## 9. Open Decisions (to work through together)
+## 10. Open Decisions (to work through together)
 
 - [ ] Restaurant/tavern picks — factor in kosher-meat-only rule (dairy/fish OK anywhere; meat needs kosher certification)
-  - [ ] Pick 2 restaurants in Platres (one per evening)
-  - [ ] Pick a restaurant at Troodos Square for Day 7 lunch
-  - [ ] Pick a tavern in Paphos for Motzei Shabbat dinner (Day 4)
-  - [ ] Book table at Isaac Tavern (Ayia Napa) — ask about live music
+  - [ ] Pick 2 restaurants in Platres (one per evening) — no kosher option here, dairy/veg only
+  - [ ] Pick a restaurant at Troodos Square for Day 7 lunch — same
+  - [ ] Pick a tavern in Paphos for Motzei Shabbat dinner (Day 4) — or Jerusalem Restaurant (kosher meat)?
+  - [ ] Book table at Isaac Tavern (Ayia Napa) for Day 11 Motzei Shabbat — or Mush Kosher Restaurant instead?
   - [ ] Book table at St. Georges Tavern — ask about live music
 - [ ] Blue Lagoon/Cape Greco boat trip (Fri 21/08) — decide, and if yes book the AM slot per the critique
 - [ ] Paphos add-on: jeep/buggy safari vs. Latchi boat + waterslide (tour-guide review favors the boat for a 4-year-old)
@@ -159,13 +187,14 @@ Went through the pending recommendations below with a specific lens: would this 
 - [ ] Buy WaterWorld (Ayia Napa) tickets in advance (check family discount)
 - [ ] Aphrodite's Rock — worth adding to the Day 6 drive or not?
 
-## 10. Other Action Items
+## 11. Other Action Items
 
 - [ ] Confirm the CY111 schedule-change reissue terms via Cyprus Airways Manage Booking (ref 86G6DZ) — see §2
 - [ ] Call each accommodation to confirm occupancy for the 3rd child — see §5
 - [ ] Confirm with New Helvetia whether the room has air conditioning — see §5
 - [ ] Check Cyprus Mail forest-fire coverage 3–5 days before departure (wildfire risk near Platres/Omodos)
 - [ ] Verify Sparti Rope Park's minimum height for the easiest circuit — confirm Noam (4) clears it before Day 7
+- [ ] Call ahead to Jerusalem Restaurant / Mush Kosher Restaurant / Sambation to confirm they're still operating and current hours before counting on any of them — see §8
 
 ---
 

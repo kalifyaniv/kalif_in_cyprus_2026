@@ -158,7 +158,11 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 
 ## 7. Restaurant Shortlist
 
-Oniro By The Sea (Paphos) · Seriani Restaurant (Coral Bay) · St. Georges Tavern (Paphos, to book) · Isaac Tavern (Ayia Napa, to book) · Andama Tavern (Protaras) · Zephyros Restaurant (Larnaca)
+Oniro By The Sea (Paphos, Google 4.5, not kosher-certified) · Seriani Restaurant (Coral Bay, not kosher-certified) · **Jerusalem Restaurant (Kato Paphos, kosher meat, to book)** · St. Georges Tavern (Yeroskipou, Google 4.7, to book, not kosher-certified) · Isaac Tavern (Ayia Napa, Google 4.4, to book, not kosher-certified — current Day 11 Motzei Shabbat pick) · **Mush Kosher Restaurant (Ayia Napa, kosher meat, to book — alternative for Day 11)** · Andama Tavern (Protaras, Google 4.4, not kosher-certified) · Zephyros Restaurant (Larnaca, Google 4.4, not kosher-certified) · **Sambation (Larnaca, kosher meat, Google 4.4, Sun–Thu 11:30–21:30, to book)**
+
+None of the non-bolded restaurants above are kosher-certified — fine for dairy/fish/veg dishes, skip
+meat. The 3 bolded restaurants are real kosher-meat options found near the route (Chabad-affiliated),
+none currently booked. No kosher option exists in Platres/Troodos.
 
 ## 8. Key Sites & Activities Reference
 

@@ -107,6 +107,16 @@ export const locations: Record<string, Location> = {
     verified: true,
     notes: "To book — matched as 'Seven St. Georges Tavern', Yeroskipou",
   },
+  "jerusalem-restaurant-paphos": {
+    id: "jerusalem-restaurant-paphos",
+    name: "Jerusalem Restaurant",
+    category: "restaurant",
+    region: "paphos",
+    lat: 34.7541,
+    lng: 32.4209,
+    verified: true,
+    notes: "Kosher meat, Chabad Paphos supervision — 5 Othellou St, Kato Paphos · +357 99981770",
+  },
   "tombs-of-the-kings": {
     id: "tombs-of-the-kings",
     name: "Tombs of the Kings",
@@ -322,6 +332,16 @@ export const locations: Record<string, Location> = {
     lat: 34.949,
     lng: 33.6461,
     verified: true,
+  },
+  "sambation-larnaca": {
+    id: "sambation-larnaca",
+    name: "Sambation",
+    category: "restaurant",
+    region: "larnaca",
+    lat: 34.9125,
+    lng: 33.6328,
+    verified: true,
+    notes: "Kosher meat, Chabad Larnaca — Apollodorou 4 (CJCC building) · Sun–Thu 11:30–21:30 · +357 24242425",
   },
   "zephyros-restaurant": {
     id: "zephyros-restaurant",
