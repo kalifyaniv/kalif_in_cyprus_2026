@@ -38,6 +38,16 @@ export const locations: Record<string, Location> = {
     lng: 32.3699,
     verified: true,
   },
+  "faros-beach": {
+    id: "faros-beach",
+    name: "Faros Beach",
+    category: "beach",
+    region: "paphos",
+    lat: 34.7702,
+    lng: 32.4085,
+    verified: true,
+    notes: "Kato Paphos — kids' playground (toddler area + monkey bars), lifeguarded, Blue Flag",
+  },
   "oniro-by-the-sea": {
     id: "oniro-by-the-sea",
     name: "Oniro By The Sea",

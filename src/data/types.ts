@@ -48,6 +48,10 @@ export interface ItineraryEvent {
   description?: string;
   driveDurationMinutes?: number;
   isOptional?: boolean;
+  /** The one "this is definitely happening" event of a flexible day. */
+  isAnchor?: boolean;
+  /** Events sharing the same string are alternatives to each other — pick one, not both. */
+  choiceGroup?: string;
 }
 
 export interface DayPlan {
@@ -56,6 +60,8 @@ export interface DayPlan {
   title: string;
   region: Region;
   isShabbat: boolean;
+  /** No fixed clock schedule — one anchor event, everything else is a loose pick. */
+  flexible?: boolean;
   events: ItineraryEvent[];
 }
 

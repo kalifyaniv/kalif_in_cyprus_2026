@@ -3,6 +3,11 @@
 **Dates:** Wed 12 Aug 2026 → Wed 26 Aug 2026 (15 days / 14 nights)
 **Travelers:** 2 adults + 3 children (ages 4, 6, 8)
 **Shabbat rule (applies all 15 days):** no driving after 19:00 Friday · no driving Saturday · driving resumes 20:00 Saturday night
+**🧭 Flexible days** (Days 2, 3, 7, 10, 13, 14): no fixed clock schedule — each has one **Anchor**
+(the one sure thing) plus, where genuinely relevant, a **Pick one** between two alternatives.
+Hard constraints (Shabbat cutoffs, ticket-booked activities) still apply even on flexible days.
+The other 9 days keep their normal timed schedule — those are already locked by Shabbat, ticketed
+waterparks, or transfer-day logistics, so loosening them wouldn't add anything real.
 
 ---
 
@@ -48,21 +53,18 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 - ⚠️ Papantoniou Supermarket (Kato Paphos) closes 21:00 — tight with the later landing; may be worth a quick stop on the way in instead, or grocery run first thing Day 2
 - Dinner in the apartment
 
-### Day 2 — Thu 13/08 — Paphos: tombs, beach & promenade
-- 08:30 Tombs of the Kings (08:30–09:15) — open-air, kids go free, go at opening to beat the heat
-- 09:30 Coral Bay Beach (09:30–13:00)
-- 13:00 lunch — Oniro By The Sea
-- 14:00 Paphos Harbour promenade (14:20–17:30)
-- *Optional: buggy/jeep safari (check min. age 5–8, seatbelts, insurance — eretzofir.com)*
-- Dinner in apartment
+### Day 2 — Thu 13/08 — Paphos: Kato Paphos day 🧭 *flexible — no fixed clock*
+No fixed times — Tombs of the Kings, Faros Beach, and Paphos Harbour promenade all sit in the
+same small Kato Paphos area, so there's no real order/timing to lock in. **Anchor: Faros Beach**
+(calm lifeguarded water, real playground — toddler area + monkey bars — beach volleyball, cafe).
+Tombs of the Kings (open-air, kids go free, go early to beat the heat) and the Harbour promenade
+fit naturally around it. Lunch — Oniro By The Sea. *Optional: buggy/jeep safari (check min. age
+5–8, seatbelts, insurance — eretzofir.com).* Dinner in apartment.
 
-### Day 3 — Fri 14/08 — Paphos: nature stops, home before Shabbat
-- 10:00 Sea Caves, Paphos (10:20–11:15)
-- 11:15 Edro III Shipwreck (11:20–12:00)
-- 12:00 lunch — Seriani Restaurant, Coral Bay
-- 13:30 Coral Bay Beach (13:35–16:45)
-- 17:00 shower/prep for Shabbat; dinner in apartment
-- **No driving from 19:00**
+### Day 3 — Fri 14/08 — Paphos: nature stops, home before Shabbat 🧭 *flexible — no fixed clock*
+**Anchor: Coral Bay Beach.** Sea Caves, Paphos and Edro III Shipwreck are easy untimed stops
+before it. Lunch — Seriani Restaurant, Coral Bay. **17:00 — shower/prep for Shabbat; dinner in
+apartment. No driving from 19:00** (hard deadline, not flexible).
 
 ### Day 4 — Sat 15/08 — Paphos: Shabbat
 - Pool & rest at Elysia Park (no driving all day)
@@ -83,13 +85,15 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 - 15:30 afternoon & evening in Platres Village
 - Dinner — *2 restaurants still to be chosen, one per Platres evening*
 
-### Day 7 — Tue 18/08 — Troodos highlights
-- 09:30 Caledonia Falls Trail (09:30–11:00; hiking shoes + water — ~3km round trip over uneven ground, budget time to carry Noam (4) part of the way)
-- 12:00 Troodos Square (lunch — *restaurant TBD*; playground on-site, let the kids play after lunch)
-- 13:30 *Optional:* Sparti Rope Park — verify Noam (4) clears the minimum height for the easiest circuit (often ~100–110cm) before committing
-- 15:00 *Optional:* Mount Olympus Viewpoint — a viewpoint, not a highlight; first thing to cut if the day runs long
-- 15:45 back to Platres Village, relaxed evening
-- Dinner at hotel/Platres
+### Day 7 — Tue 18/08 — Troodos highlights 🧭 *flexible — no fixed clock*
+**Anchor: Caledonia Falls Trail.** Bring hiking shoes + water — a real ~3km hike over rocky,
+root-covered ground, budget time to carry Noam (4) part-way. ⚠️ August water flow is reduced —
+not a dramatic waterfall. The shaded forest trail alongside the stream is the actual payoff, so
+frame it that way to the kids, not "big waterfall." Then Troodos Square (lunch — *restaurant
+TBD*; playground on-site, let the kids play after). **Pick one:** Sparti Rope Park (verify Noam
+(4) clears the minimum height for the easiest circuit, often ~100–110cm, before committing) *or*
+Mount Olympus Viewpoint (the lighter option if energy's running low — a viewpoint, not a
+highlight). Back to Platres Village, relaxed evening. Dinner at hotel/Platres.
 
 ### Day 8 — Wed 19/08 — Platres → Ayia Napa
 - Checkout New Helvetia (by 12:00, aim to leave ~10:00)
@@ -103,13 +107,11 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 - 10:00 WaterWorld Waterpark, full day (lunch inside park)
 - Return 17:00, dinner at hotel
 
-### Day 10 — Fri 21/08 — Protaras: beach, home before Shabbat
-- 10:00 Fig Tree Bay beach (10:15–13:30)
-- 13:30 lunch — Andama Tavern
-- 14:30 Protaras Promenade stroll
-- *Optional: Blue Lagoon/Cape Greco boat trip — short 2–3h cruise only, must be back by 17:00–17:30*
-- 17:00 return, shower/Shabbat prep
-- **No driving from 19:00**
+### Day 10 — Fri 21/08 — Protaras: beach, home before Shabbat 🧭 *flexible — no fixed clock*
+**Anchor: Fig Tree Bay beach.** Lunch — Andama Tavern. **Pick one:** Blue Lagoon/Cape Greco boat
+trip (short 2–3h AM cruise only — book the specific morning slot) *or* a lighter Protaras
+Promenade stroll (no booking needed). **17:00 — return, shower/Shabbat prep. No driving from
+19:00** (hard cutoff, not flexible).
 
 ### Day 11 — Sat 22/08 — Ayia Napa: Shabbat
 - Pool & rest at Cyprotel Florida (no driving)
@@ -124,17 +126,15 @@ Paphos (5 nights) → Platres/Troodos (2 nights) → Ayia Napa (4 nights) → La
 - 15:30 relaxed time at Finikoudes Beach/Promenade
 - Dinner in apartment
 
-### Day 13 — Mon 24/08 — Larnaca: shopping & promenade
-- 10:00 Metropolis Mall Larnaca
-- 13:00 JUMBO Larnaca (toys/souvenirs)
-- 15:30 Finikoudes Promenade stroll
-- Dinner in apartment
+### Day 13 — Mon 24/08 — Larnaca: shopping & promenade 🧭 *flexible — no fixed clock*
+**Anchor: Metropolis Mall Larnaca**, then JUMBO Larnaca (toys/souvenirs) — kept as decided, not
+swapped for Larnaca Fort. Finikoudes Promenade stroll afterward if there's time. Dinner in
+apartment.
 
-### Day 14 — Tue 25/08 — Larnaca: relaxed day before flight
-- 10:00 Finikoudes Beach / Mackenzie area — swim & rest
-- 13:00 lunch — Zephyros Restaurant
-- 14:30 Mackenzie Promenade (plane-watching)
-- Dinner in apartment
+### Day 14 — Tue 25/08 — Larnaca: relaxed day before flight 🧭 *flexible — no fixed clock*
+**Anchor: Finikoudes Beach / Mackenzie area** — swim & rest, the last full day. **Pick one for
+lunch:** Zephyros Restaurant *or* Sambation (kosher meat, Sun–Thu 11:30–21:30 — matches this
+Tuesday). Mackenzie Promenade (plane-watching) if there's time. Dinner in apartment.
 
 ### Day 15 — Wed 26/08 — Departure
 - Checkout Quattro Beachfront (by 11:00)
@@ -166,7 +166,7 @@ none currently booked. No kosher option exists in Platres/Troodos.
 
 ## 8. Key Sites & Activities Reference
 
-Tombs of the Kings · Coral Bay Beach · Paphos Harbour · Sea Caves Paphos · Edro III Shipwreck · Paphos Aphrodite Waterpark · Omodos Village · Caledonia Falls Trail · Troodos Square · Sparti Rope Park (optional) · Mount Olympus Viewpoint (optional) · Platres Village · Ayia Napa Square · Parko Paliatso Luna Park · WaterWorld Waterpark · Fig Tree Bay · Protaras Promenade · Cape Greco/Blue Lagoon (optional) · Ayia Napa Harbour · Finikoudes Beach/Promenade · Metropolis Mall · JUMBO Larnaca · Mackenzie Promenade
+Tombs of the Kings · Faros Beach · Coral Bay Beach · Paphos Harbour · Sea Caves Paphos · Edro III Shipwreck · Paphos Aphrodite Waterpark · Omodos Village · Caledonia Falls Trail · Troodos Square · Sparti Rope Park (pick one, Day 7) · Mount Olympus Viewpoint (pick one, Day 7) · Platres Village · Ayia Napa Square · Parko Paliatso Luna Park · WaterWorld Waterpark · Fig Tree Bay · Protaras Promenade · Cape Greco/Blue Lagoon (pick one, Day 10) · Ayia Napa Harbour · Finikoudes Beach/Promenade · Metropolis Mall · JUMBO Larnaca · Mackenzie Promenade
 
 ---
 *Source files: `טיול_לקפריסין_אוגוסט_2026_חוברת_מלאה_להדפסה.docx`, `Booking.com_ Confirmation.pdf` (×4), `My Booking – Booking.com.pdf` — all in `/Users/yanivkalif/Downloads/cyprus/`.*

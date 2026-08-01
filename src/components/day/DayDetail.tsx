@@ -4,6 +4,7 @@ import type { DayPlan } from "../../data/types";
 import { DayHeader } from "./DayHeader";
 import { DayTimeline } from "./DayTimeline";
 import { ShabbatBanner } from "./ShabbatBanner";
+import { FlexibleDayBanner } from "./FlexibleDayBanner";
 import { DayNavStrip } from "../layout/DayNavStrip";
 import { DayPrevNextBar } from "../layout/DayPrevNextBar";
 import { DayMap } from "../map/DayMap";
@@ -25,6 +26,7 @@ export function DayDetail({ day }: { day: DayPlan }) {
       <DayHeader day={day} />
 
       {day.isShabbat && <ShabbatBanner />}
+      {day.flexible && <FlexibleDayBanner />}
 
       <section>
         <SectionHeading icon={<MapIcon size={18} />} title="Today's Map" />

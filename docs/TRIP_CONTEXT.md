@@ -98,8 +98,10 @@ That's 11 of 14 nights booked short a child. Call/email each property ahead of c
 
 ## 6. Day-by-Day Itinerary
 
-See `Cyprus_Trip_Overview.md` for the full day-by-day plan. As of the first "refine the plan" pass
-(below), Days 2, 6, and 7 now differ from the original booklet.
+See `Cyprus_Trip_Overview.md` for the full day-by-day plan. As of two "refine the plan" passes
+(below), Days 2, 3, 6, 7, 10, 13, and 14 now differ from the original booklet. Days 2, 3, 7, 10, 13,
+and 14 are also now **flexible** — no fixed clock, one Anchor + (where relevant) a Pick-one choice
+— everything else keeps its normal timed schedule.
 
 ---
 
@@ -129,7 +131,35 @@ Went through the pending recommendations below with a specific lens: would this 
   JUMBO as the weakest day in the trip and suggested swapping in Larnaca Fort/Medieval Museum. Decided
   to keep the mall + JUMBO as originally planned.
 
-## 8. Kosher Dining Research
+## 8. Second Refine-the-Plan Pass — Hybrid "Anchor + Pick One" Days
+
+Explored a looser planning style via two rounds of artifact prototyping — first a full
+menu-per-area format, then refined to "one fixed anchor per day" after mapping all 15 days
+against real constraints. Finding: only 6 of 15 days have genuine free-choice character (Days 2,
+3, 7, 10, 13, 14) — the other 9 are already locked by Shabbat, ticketed activities, or transfer
+logistics, so loosening them would be fake flexibility. Applied to the site (`isAnchor` +
+`choiceGroup` fields on `ItineraryEvent`, `flexible` on `DayPlan`; new "Anchor" badge and "Pick
+one" grouped UI on the day timeline):
+
+- **Day 2**: Beach swapped from Coral Bay to **Faros Beach** — has an actual playground (toddler
+  area + monkey bars), lifeguarded, Blue Flag, and sits right next to Tombs of the Kings, fixing a
+  geographic zigzag (previously Kato Paphos → Peyia → back to Kato Paphos). Day 2 is now one easy
+  Kato Paphos loop: Tombs of the Kings → Faros Beach (anchor) → Paphos Harbour promenade, no fixed
+  times, no real trade-off to make.
+- **Day 3**: Anchor = Coral Bay Beach (unchanged), Sea Caves + Edro III untimed before it.
+- **Day 7**: Anchor = Caledonia Falls Trail — description recalibrated: **August water flow is
+  reduced, not a dramatic waterfall** — the shaded forest trail is the actual payoff, frame it that
+  way to the kids. Sparti Rope Park and Mount Olympus Viewpoint are now a genuine either/or
+  (`choiceGroup`), not two separate optional add-ons.
+- **Day 10**: Anchor = Fig Tree Bay beach. Blue Lagoon/Cape Greco boat trip and Protaras Promenade
+  stroll are now a `choiceGroup`. The hard "back by 17:00–17:30, no driving from 19:00" constraint
+  is untouched — still a fixed deadline, not part of what loosened.
+- **Day 13**: Anchor = Metropolis Mall (JUMBO follows, still kept as decided). Finikoudes stroll
+  untimed add-on.
+- **Day 14**: Anchor = Finikoudes Beach/Mackenzie relaxed day. Lunch is now a `choiceGroup`:
+  Zephyros Restaurant vs. Sambation (kosher meat).
+
+## 9. Kosher Dining Research
 
 Went looking for real kosher options near the route, given most of the restaurant shortlist is
 regular (non-kosher) tavernas. Found genuine, Chabad-affiliated kosher-meat restaurants at 3 of the
@@ -157,7 +187,7 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 
 ---
 
-## 9. Still Pending (not yet applied)
+## 10. Still Pending (not yet applied)
 
 **From `Cyprus_Trip_Critique.md`:**
 - Wildfire risk near Omodos/Platres (Day 6–7) — check Cyprus Mail forest-fire coverage 3–5 days before departure; fallback is to skip Omodos/Platres and extend Paphos instead
@@ -173,7 +203,7 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 
 ---
 
-## 10. Open Decisions (to work through together)
+## 11. Open Decisions (to work through together)
 
 - [ ] Restaurant/tavern picks — factor in kosher-meat-only rule (dairy/fish OK anywhere; meat needs kosher certification)
   - [ ] Pick 2 restaurants in Platres (one per evening) — no kosher option here, dairy/veg only
@@ -187,14 +217,14 @@ rating, and the site's restaurant status labels were renamed from "Confirmed"/"T
 - [ ] Buy WaterWorld (Ayia Napa) tickets in advance (check family discount)
 - [ ] Aphrodite's Rock — worth adding to the Day 6 drive or not?
 
-## 11. Other Action Items
+## 12. Other Action Items
 
 - [ ] Confirm the CY111 schedule-change reissue terms via Cyprus Airways Manage Booking (ref 86G6DZ) — see §2
 - [ ] Call each accommodation to confirm occupancy for the 3rd child — see §5
 - [ ] Confirm with New Helvetia whether the room has air conditioning — see §5
 - [ ] Check Cyprus Mail forest-fire coverage 3–5 days before departure (wildfire risk near Platres/Omodos)
 - [ ] Verify Sparti Rope Park's minimum height for the easiest circuit — confirm Noam (4) clears it before Day 7
-- [ ] Call ahead to Jerusalem Restaurant / Mush Kosher Restaurant / Sambation to confirm they're still operating and current hours before counting on any of them — see §8
+- [ ] Call ahead to Jerusalem Restaurant / Mush Kosher Restaurant / Sambation to confirm they're still operating and current hours before counting on any of them — see §9
 
 ---
 

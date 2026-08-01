@@ -31,6 +31,7 @@ export function TimelineItem({ event }: { event: ItineraryEvent }) {
             </span>
           )}
           <span className="font-semibold text-ink">{event.title}</span>
+          {event.isAnchor && <Badge tone="sea">Anchor</Badge>}
           {event.isOptional && <Badge tone="sun">Optional</Badge>}
           {event.driveDurationMinutes && <Badge tone="sea">{event.driveDurationMinutes} min drive</Badge>}
         </div>
