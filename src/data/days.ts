@@ -303,3 +303,7 @@ export const days: DayPlan[] = [
 export function getDay(dayNumber: number): DayPlan | undefined {
   return days.find((d) => d.day === dayNumber);
 }
+
+export function getDayByDate(isoDate: string): DayPlan | undefined {
+  return days.find((d) => d.date === isoDate);
+}

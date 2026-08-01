@@ -9,10 +9,10 @@ export function RouteOverviewStrip() {
         const style = regionStyle(stop.region);
         return (
           <div key={stop.id} className="flex items-center gap-2">
-            <span className={`rounded-full px-3 py-1.5 text-sm font-semibold text-sand-50 ${style.bg}`}>
+            <span className={`rounded-full px-3 py-1.5 text-sm font-semibold text-white ${style.bg}`}>
               {style.label} <span className="opacity-80">· {stop.nights}n</span>
             </span>
-            {index < accommodations.length - 1 && <ArrowRight size={16} className="text-sea-400" />}
+            {index < accommodations.length - 1 && <ArrowRight size={16} className="text-ink-soft/50" />}
           </div>
         );
       })}

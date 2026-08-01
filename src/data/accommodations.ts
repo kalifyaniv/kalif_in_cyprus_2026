@@ -13,6 +13,9 @@ export const accommodations: Accommodation[] = [
     confirmationNumber: "5328.848.408",
     pin: "9786",
     cancellationPolicy: "Free until 7 days before; then 50%",
+    warnings: ["Booked for only 2 children (6, 8) — confirm occupancy for Noam (4) before arrival"],
+    bookingUrl: "https://secure.booking.com/mybooking.en-gb.html?bn=5328848408&pincode=9786",
+    driveFileId: "17SIyxRrw7aMLlt2nke22svCA0mkGq-kK",
   },
   {
     id: "new-helvetia",
@@ -26,6 +29,12 @@ export const accommodations: Accommodation[] = [
     confirmationNumber: "6827.366.277",
     pin: "9588",
     cancellationPolicy: "Free until 5 days before; then 50%",
+    warnings: [
+      "Booked for only 2 children (4, 6) — confirm occupancy for Shachar (8) before arrival",
+      "No air conditioning listed for this room — confirm with the hotel",
+    ],
+    bookingUrl: "https://secure.booking.com/mybooking.en-gb.html?bn=6827366277&pincode=9588",
+    driveFileId: "1Y03DYAIi9nw12sb_YtORQxeea48OZJsK",
   },
   {
     id: "cyprotel-florida",
@@ -39,6 +48,9 @@ export const accommodations: Accommodation[] = [
     confirmationNumber: "6534.598.162",
     pin: "2767",
     cancellationPolicy: "Free until 5 days before; then 100%",
+    warnings: ["Booked for only 2 children (6, 8) — confirm occupancy for Noam (4) before arrival"],
+    bookingUrl: "https://secure.booking.com/mybooking.en-gb.html?bn=6534598162&pincode=2767",
+    driveFileId: "1B2mGCw3XTJ1mKPRcUE2MC_ZTGKdpFnHf",
   },
   {
     id: "quattro-beachfront",
@@ -52,5 +64,7 @@ export const accommodations: Accommodation[] = [
     confirmationNumber: "6502.666.709",
     pin: "7262",
     cancellationPolicy: "Non-refundable after 8 Aug",
+    bookingUrl: "https://secure.booking.com/mybooking.en-gb.html?bn=6502666709&pincode=7262",
+    driveFileId: "1R4GOot6NAH4O3jM5bi5vhoIx6Jmpx9fC",
   },
 ];

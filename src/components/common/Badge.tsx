@@ -6,18 +6,16 @@ interface BadgeProps {
 }
 
 const toneClasses: Record<NonNullable<BadgeProps["tone"]>, string> = {
-  sea: "bg-sea-100 text-sea-700",
-  sun: "bg-sun-300/60 text-sea-900",
-  terracotta: "bg-terracotta-400/20 text-terracotta-600",
-  forest: "bg-forest-400/20 text-forest-600",
-  neutral: "bg-sand-100 text-sea-700",
+  sea: "bg-teal-soft text-teal",
+  sun: "bg-highlight-soft text-highlight",
+  terracotta: "bg-accent-soft text-accent",
+  forest: "bg-teal-soft text-teal",
+  neutral: "bg-line text-ink-soft",
 };
 
 export function Badge({ children, tone = "neutral" }: BadgeProps) {
   return (
-    <span
-      className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold ${toneClasses[tone]}`}
-    >
+    <span className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold ${toneClasses[tone]}`}>
       {children}
     </span>
   );

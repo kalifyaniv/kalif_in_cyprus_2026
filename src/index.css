@@ -1,42 +1,71 @@
 @import "tailwindcss";
 @import "leaflet/dist/leaflet.css";
 
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
 @theme {
-  --color-sea-50: #eefbff;
-  --color-sea-100: #d6f4ff;
-  --color-sea-400: #22a6d9;
-  --color-sea-500: #0e93c4;
-  --color-sea-600: #0e7490;
-  --color-sea-700: #0b5a72;
-  --color-sea-900: #0b3d4c;
+  /* Sunset Slate — semantic UI tokens. Light values here; dark overrides below via [data-theme="dark"]. */
+  --color-page: #f6f2ec;
+  --color-surface: rgba(255, 255, 255, 0.72);
+  --color-surface-strong: rgba(255, 255, 255, 0.92);
+  --color-ink: #241c1a;
+  --color-ink-soft: #6b5c56;
+  --color-line: rgba(36, 28, 26, 0.1);
+  --color-line-strong: rgba(36, 28, 26, 0.22);
 
-  --color-sun-300: #ffe19a;
-  --color-sun-400: #ffd166;
-  --color-sun-500: #f7b733;
+  --color-accent: #d8582f;
+  --color-accent-soft: rgba(216, 88, 47, 0.14);
+  --color-on-accent: #fff8f2;
 
-  --color-terracotta-400: #f2a65a;
-  --color-terracotta-500: #e07a5f;
-  --color-terracotta-600: #c85f45;
+  --color-teal: #1f6f78;
+  --color-teal-soft: rgba(31, 111, 120, 0.14);
 
-  --color-sand-50: #fff8ee;
-  --color-sand-100: #fdf0dc;
+  --color-highlight: #c98a1f;
+  --color-highlight-soft: rgba(201, 138, 31, 0.16);
 
-  --color-forest-400: #6fa96f;
-  --color-forest-500: #4f8a5b;
-  --color-forest-600: #3c6e47;
+  --color-glow: rgba(216, 88, 47, 0.35);
 
-  --font-display: "Baloo 2", ui-rounded, system-ui, sans-serif;
-  --font-body: "Nunito Sans", system-ui, sans-serif;
+  --font-display: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+:root[data-theme="dark"] {
+  --color-page: #171b21;
+  --color-surface: rgba(255, 255, 255, 0.06);
+  --color-surface-strong: rgba(23, 27, 33, 0.92);
+  --color-ink: #f0ece5;
+  --color-ink-soft: #a79d94;
+  --color-line: rgba(240, 236, 229, 0.12);
+  --color-line-strong: rgba(240, 236, 229, 0.24);
+
+  --color-accent: #ff8a5c;
+  --color-accent-soft: rgba(255, 138, 92, 0.16);
+  --color-on-accent: #1a1006;
+
+  --color-teal: #4fb0ab;
+  --color-teal-soft: rgba(79, 176, 171, 0.16);
+
+  --color-highlight: #f0b45c;
+  --color-highlight-soft: rgba(240, 180, 92, 0.16);
+
+  --color-glow: rgba(255, 138, 92, 0.35);
 }
 
 @layer base {
   html {
     scroll-behavior: smooth;
     -webkit-tap-highlight-color: transparent;
+    color-scheme: light;
+  }
+
+  html[data-theme="dark"] {
+    color-scheme: dark;
   }
 
   body {
-    @apply bg-sand-50 text-sea-900 font-body antialiased;
+    @apply bg-page text-ink font-body antialiased;
+    transition: background-color 0.25s ease, color 0.25s ease;
   }
 
   h1,
@@ -44,6 +73,7 @@
   h3,
   h4 {
     @apply font-display;
+    text-wrap: balance;
   }
 }
 
@@ -55,6 +85,23 @@
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
+
+  .glass {
+    @apply bg-surface border border-line backdrop-blur-xl;
+  }
+}
+
+/* Leaflet ships hardcoded white popup styling — re-theme it to follow light/dark tokens. */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: var(--color-surface-strong);
+  color: var(--color-ink);
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 0.75rem;
+}
+.leaflet-container a.leaflet-popup-close-button {
+  color: var(--color-ink-soft);
 }
 
 @media (prefers-reduced-motion: reduce) {

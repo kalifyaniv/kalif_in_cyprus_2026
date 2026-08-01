@@ -67,6 +67,8 @@ export interface Flight {
   departTime: string;
   arriveTime: string;
   note?: string;
+  bookingUrl?: string;
+  driveFileId?: string;
 }
 
 export interface CarRental {
@@ -77,6 +79,8 @@ export interface CarRental {
   dropoff: { locationId: string; date: string; time: string };
   mainDriver: string;
   openItems: string[];
+  bookingUrl?: string;
+  driveFileId?: string;
 }
 
 export interface Accommodation {
@@ -91,12 +95,17 @@ export interface Accommodation {
   confirmationNumber: string;
   pin: string;
   cancellationPolicy: string;
+  warnings?: string[];
+  bookingUrl?: string;
+  driveFileId?: string;
 }
 
 export interface TodoItem {
   id: string;
   label: string;
   done: boolean;
+  /** 0 = must resolve before departure; 1-15 = must resolve by that trip day at the latest. */
+  dueDay: number;
 }
 
 export interface Restaurant {
@@ -105,4 +114,16 @@ export interface Restaurant {
   locationId?: string;
   status: "confirmed" | "to-book";
   notes?: string;
+}
+
+export interface Insurance {
+  provider: string;
+  policyNumber: string;
+  coverageStart: string;
+  coverageEnd: string;
+  emergencyPhone: string;
+  emergencyEmail: string;
+  coverageSummary: string[];
+  bookingUrl?: string;
+  driveFileId?: string;
 }

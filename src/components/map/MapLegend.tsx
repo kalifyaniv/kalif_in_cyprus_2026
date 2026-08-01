@@ -5,7 +5,7 @@ const REGION_ORDER: Region[] = ["paphos", "platres-troodos", "ayia-napa", "larna
 
 export function MapLegend() {
   return (
-    <div className="flex flex-wrap gap-x-4 gap-y-1 px-1 pt-2 text-xs text-sea-700">
+    <div className="flex flex-wrap gap-x-4 gap-y-1 px-1 pt-2 text-xs text-ink-soft">
       {REGION_ORDER.map((region) => {
         const style = regionStyles[region];
         return (

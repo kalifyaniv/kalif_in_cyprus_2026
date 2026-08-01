@@ -22,8 +22,8 @@ export function DayNavStrip({ activeDay }: DayNavStripProps) {
             to={`/day/${day.day}`}
             className={`flex shrink-0 snap-start flex-col items-center gap-1 rounded-2xl border px-3 py-2 text-center transition-transform active:scale-95 ${
               isActive
-                ? "border-sea-600 bg-sea-600 text-sand-50 shadow-md"
-                : "border-sea-100 bg-white/80 text-sea-900 hover:border-sea-400"
+                ? "border-accent bg-accent text-on-accent shadow-md"
+                : "border-line bg-surface text-ink hover:border-line-strong"
             }`}
           >
             <span className={`h-1.5 w-6 rounded-full ${style.bg}`} aria-hidden />

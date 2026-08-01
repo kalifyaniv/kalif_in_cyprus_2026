@@ -4,6 +4,7 @@ import { days } from "../../data/days";
 import { locations } from "../../data/locations";
 import { regionStyles } from "../../utils/regionColors";
 import { routeForDays, warnUnverifiedLocations } from "../../utils/mapRoute";
+import { useRoadRoute } from "../../hooks/useRoadRoute";
 import { createMarkerIcon } from "./markerIcon";
 import { FitBounds } from "./FitBounds";
 import { MapLegend } from "./MapLegend";
@@ -12,11 +13,12 @@ export function TripMap() {
   useEffect(() => warnUnverifiedLocations(locations), []);
 
   const route = useMemo(() => routeForDays(days), []);
-  const positions = useMemo<[number, number][]>(() => route.map((loc) => [loc.lat, loc.lng]), [route]);
+  const waypoints = useMemo<[number, number][]>(() => route.map((loc) => [loc.lat, loc.lng]), [route]);
+  const { positions, isRoadRoute } = useRoadRoute(waypoints);
 
   return (
     <div>
-      <div className="h-72 w-full overflow-hidden rounded-3xl border border-sea-100 shadow-sm sm:h-96">
+      <div className="h-72 w-full overflow-hidden rounded-3xl border border-line shadow-sm sm:h-96">
         <MapContainer
           center={[34.95, 33.1]}
           zoom={9}
@@ -25,10 +27,17 @@ export function TripMap() {
           attributionControl={false}
         >
           <TileLayer
-            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}"
+            attribution="Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ"
           />
-          <Polyline positions={positions} pathOptions={{ color: "#0e7490", weight: 3, dashArray: "6 8", opacity: 0.7 }} />
+          <Polyline
+            positions={positions}
+            pathOptions={
+              isRoadRoute
+                ? { color: "#0e7490", weight: 3, opacity: 0.75 }
+                : { color: "#0e7490", weight: 3, dashArray: "6 8", opacity: 0.7 }
+            }
+          />
           {route.map((loc) => (
             <Marker
               key={loc.id}
@@ -42,7 +51,7 @@ export function TripMap() {
               </Popup>
             </Marker>
           ))}
-          <FitBounds positions={positions} />
+          <FitBounds positions={waypoints} />
         </MapContainer>
       </div>
       <MapLegend />
